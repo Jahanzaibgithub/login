@@ -1,0 +1,28 @@
+    #wrapper {
+        text-align: center;
+        margin-top: 10%;
+        margin-left: 20%;
+        margin-right: 20%;
+        border-radius: 1cm;
+        background-color: yellow;
+    }
+    
+    #list {
+        list-style-type: none;
+        text-decoration-style: solid;
+    }
+    
+    button {
+        background-color: skyblue;
+        border-radius: 4mm;
+    }
+    
+    h2 {
+        font-size: 3cm;
+        font-style: italic;
+        font-style: bold;
+    }
+    
+    .container {
+        width: 450px;
+    }
