@@ -24,7 +24,7 @@ function validation(event) {
         pass_error.style.display = "none";
     }
 
-    // console.log(username, password);
+
 
     localStorage.setItem('username', username);
     localStorage.setItem('password', password);
